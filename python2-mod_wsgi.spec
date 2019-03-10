@@ -5,7 +5,7 @@
 %define keepstatic 1
 Name     : python2-mod_wsgi
 Version  : 4.5.24
-Release  : 51
+Release  : 52
 URL      : https://github.com/GrahamDumpleton/mod_wsgi/archive/4.5.24.tar.gz
 Source0  : https://github.com/GrahamDumpleton/mod_wsgi/archive/4.5.24.tar.gz
 Summary  : No detailed summary available
